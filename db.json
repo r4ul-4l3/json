@@ -1,16 +1,7 @@
 {
-  "Movie": [
-    {
-      "id": 1,
-      "name": "jose"
-    },
-    {
-      "id": 2,
-      "name": "ricardo"
-    },
-    {
-      "id": 3,
-      "name": "mario"
-    }
-  ]
+   type: "success",
+   value: {
+      id: 10,
+      quote: "Really loving Spring Boot, makes stand alone Spring apps easy."
+   }
 }
