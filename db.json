@@ -1,31 +1,16 @@
 {
-  "posts": [
+  "persona": [
     {
       "id": 1,
-      "title": "Nuevo titulo 1"
+      "name": "jose"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "name": "ricardo"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "name": "mario"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
